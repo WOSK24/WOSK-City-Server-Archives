@@ -1,3 +1,4 @@
+
 THESE ARCHIVES ARE MEANT FOR THOSE WHO WANT TO EXPERIENCE THE LEGACY OF THE WORLD OF STARKNIGHT.
 
 DO NOT REDISTRIBUTE OR PASS THESE WORLDS OFF AS YOUR OWN; DOING SO CAN POTENTIALLY LEAD TO LEGAL CONSEQUENCES.
@@ -24,5 +25,5 @@ License:
 
 ![image](https://github.com/WOSK24/WOSK-City-Server-Archives/assets/142062862/da6e472f-8fdd-48df-ba3d-95c325a46885)
 
-Creative Commons License
-This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
+[Creative Commons License
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
