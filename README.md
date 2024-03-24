@@ -13,7 +13,8 @@ This page is meant for players to access the 11 years of history in the World of
 
 ## How to install:
 - Download the preferred save.
-- Move (or download) the file to %appdata%/roaming/.minecraft/saves
+- Extract the .zip file
+- Move the world file to %appdata%/roaming/.minecraft/saves
 - Run Minecraft.
 - Select the world in your world list.
 
