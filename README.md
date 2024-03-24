@@ -2,7 +2,7 @@
 
 ## THESE ARCHIVES ARE MEANT FOR THOSE WHO WANT TO EXPERIENCE THE LEGACY OF THE WORLD OF STARKNIGHT. PLEASE DO NOT REDISTRIBUTE OR PASS THESE WORLDS OFF AS YOUR OWN; DOING SO CAN POTENTIALLY LEAD TO LEGAL CONSEQUENCES.
 
-This page is meant for players to access the 14 years of history in the World of Starknight City server and see the roots of where we started.
+This page is meant for players to access the 11 years of history in the World of Starknight City server and see the roots of where we started.
 
 ## CITY server archives:
 - [2018](https://github.com/WOSK24/WOSK-City-Server-Archives/releases/tag/2018)
